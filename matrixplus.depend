@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647281215 source:d:\²¢ÐÐ\codeblocks\project\matrixplus\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+
